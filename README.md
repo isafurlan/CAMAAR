@@ -12,4 +12,4 @@ Sistema para avaliação de atividades acadêmicas remotas do CIC
 ## Links
 - [Figma](https://www.figma.com/design/5GVzfaJSBbcXmGvuvAi7WF/Camaar-2024.1?node-id=0-1&t=kcV1vnOSDKwTNOnD-1)
 - [Kanban](https://github.com/users/isafurlan/projects/1)
-- [Wiki](https://github.com/isafurlan/CAMAAR.wiki.git)
+- [Wiki](https://github.com/isafurlan/CAMAAR/wiki)

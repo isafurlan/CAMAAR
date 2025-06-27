@@ -64,3 +64,5 @@ group :test do
   # Para testes de sistema
   gem "selenium-webdriver"
 end
+
+gem "rspec-rails", "~> 8.0", :groups => [:development, :test]
