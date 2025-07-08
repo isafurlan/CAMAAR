@@ -58,6 +58,7 @@ end
 
 group :development do
   gem "web-console"
+  gem 'rdoc'
 end
 
 group :test do
