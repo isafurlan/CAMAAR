@@ -63,6 +63,10 @@ end
 group :test do
   # Para testes de sistema
   gem "selenium-webdriver"
+  gem 'rspec-rails'
 end
 
-gem "rspec-rails", "~> 8.0", :groups => [:development, :test]
+
+
+gem 'bcrypt'
+
