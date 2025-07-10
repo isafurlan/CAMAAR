@@ -140,6 +140,15 @@
                 "email": "enzoyn@hotmail.com"
             },
             {
+                "nome": "Fernando Lovato Weber",
+                "curso": "CIÊNCIA DA COMPUTAÇÃO/CIC",
+                "matricula": "232037641",
+                "usuario": "232037641",
+                "formacao": "graduando",
+                "ocupacao": "dicente",
+                "email": "fernandolovato227@gmail.com"
+            },
+            {
                 "nome": "Gabriel Faustino Lima da Rocha",
                 "curso": "CIÊNCIA DA COMPUTAÇÃO/CIC",
                 "matricula": "190013249",
@@ -194,6 +203,15 @@
                 "email": "igordavid13@gmail.com"
             },
             {
+                "nome": "Isabela Soares Furlan",
+                "curso": "ENGENHARIA DE COMPUTAÇÃO/CIC",
+                "matricula": "231013636",
+                "usuario": "231013636",
+                "formacao": "graduando",
+                "ocupacao": "dicente",
+                "email": "isabelasfurlann@gmail.com"
+            },
+            {
                 "nome": "Jefte Augusto Gomes Batista",
                 "curso": "CIÊNCIA DA COMPUTAÇÃO/CIC",
                 "matricula": "180057570",
@@ -221,15 +239,6 @@
                 "email": "kleberrjr7@gmail.com"
             },
             {
-                "nome": "Luca Delpino Barbabella",
-                "curso": "CIÊNCIA DA COMPUTAÇÃO/CIC",
-                "matricula": "180125559",
-                "usuario": "180125559",
-                "formacao": "graduando",
-                "ocupacao": "dicente",
-                "email": "barbadluca@gmail.com"
-            },
-            {
                 "nome": "Lucas de Almeida Abreu Faria",
                 "curso": "CIÊNCIA DA COMPUTAÇÃO/CIC",
                 "matricula": "170016668",
@@ -255,6 +264,15 @@
                 "formacao": "graduando",
                 "ocupacao": "dicente",
                 "email": "luquinha_miranda@hotmail.com"
+            },
+            {
+                "nome": "Lucas de Oliveira Silva",
+                "curso": "CIÊNCIA DA COMPUTAÇÃO/CIC",
+                "matricula": "200022857",
+                "usuario": "200022857",
+                "formacao": "graduando",
+                "ocupacao": "dicente",
+                "email": "lucasoliver3500@gmail.com"
             },
             {
                 "nome": "Lucas Resende Silveira Reis",
@@ -329,6 +347,15 @@
                 "email": "mayllak@hotmail.com"
             },
             {
+                "nome": "Nikolas Negrão Pessoa",
+                "curso": "ENGENHARIA DE COMPUTAÇÃO/CIC",
+                "matricula": "202024722",
+                "usuario": "202024722",
+                "formacao": "graduando",
+                "ocupacao": "dicente",
+                "email": "nikolaspessoa@gmail.com"
+            },
+            {
                 "nome": "Pedro Cesar Ribeiro Passos",
                 "curso": "ENGENHARIA MECATRÔNICA - CONTROLE E AUTOMAÇÃO/FTD",
                 "matricula": "180139312",
@@ -383,13 +410,13 @@
                 "email": "aluno0sem.luz@gmail.com"
             },
             {
-                "nome": "Vinicius Lima Passos",
-                "curso": "CIÊNCIA DA COMPUTAÇÃO/CIC",
-                "matricula": "200028545",
-                "usuario": "200028545",
+                "nome": "Vinicius de Camargo Bandeira",
+                "curso": "ENGENHARIA DE COMPUTAÇÃO/CIC",
+                "matricula": "202042847",
+                "usuario": "202042847",
                 "formacao": "graduando",
                 "ocupacao": "dicente",
-                "email": "viniciuslimapassos@gmail.com"
+                "email": "vinicius.camargo.bandeira@gmail.com"
             },
             {
                 "nome": "William Xavier dos Santos",
