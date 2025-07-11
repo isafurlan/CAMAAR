@@ -9,11 +9,11 @@ Rails.application.routes.draw do
 
   # Área do admin
   namespace :admin do
-    root "dashboard#index"  # Rota: /admin/
+    root "gerenciamento#index"  # Rota: /admin/
   end
 
   # Área do Usuário
-  get 'dashboard', to: 'users#dashboard', as: :user_dashboard  # /dashboard
+  get 'gerenciamento', to: 'users#gerenciamento', as: :user_dashboard  # /gerenciamento
   # get 'profile', to: 'users#profile'  # Exemplo de outra rota de usuário
 
   # Página inicial
